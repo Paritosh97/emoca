@@ -7,7 +7,6 @@ babel~=2.8.0
 chumpy~=0.70
 compress-pickle~=1.2.0
 configparser~=5.0.1
-deepspeech-gpu
 docker-pycreds~=0.4.0
 docutils~=0.16
 dominate~=2.6.0
@@ -74,4 +73,4 @@ plotly==5.8.0
 librosa==0.9.2
 h5py==3.7.0
 hickle==5.0.2
-pytorch3d @ git+https://github.com/facebookresearch/pytorch3d.git@v0.6.2
+pytorch3d @ git+https://github.com/facebookresearch/pytorch3d.git
